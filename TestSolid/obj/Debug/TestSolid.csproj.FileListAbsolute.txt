@@ -1,0 +1,15 @@
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\TestSolid.exe.config
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\TestSolid.exe
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\TestSolid.pdb
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.csprojAssemblyReference.cache
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.Form1.resources
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.Properties.Resources.resources
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.exe
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.pdb
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\EPPlus.dll
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\OfficeOpenXml.Extends.dll
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\System.IO.Packaging.dll
+C:\Users\vadim\source\repos\TestSolid\TestSolid\bin\Debug\EPPlus.xml
+C:\Users\vadim\source\repos\TestSolid\TestSolid\obj\Debug\TestSolid.csproj.CopyComplete
